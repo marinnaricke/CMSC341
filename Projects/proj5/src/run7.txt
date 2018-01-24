@@ -1,0 +1,234 @@
+
+Random seed set to: 1481056465100
+
+Testing 5003, 50% full
+Elapsed time = 25.996 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 5003
+        size = 2500
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 1971
+        average hits to primary slots = 1.26839
+        maximum hits to primary slots = 5
+        total number of ejections = 0
+        maximum number of ejections in a single insertion = 0
+
+
+Testing 5003, 60% full
+Elapsed time = 30.996 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 5003
+        size = 3001
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 2251
+        average hits to primary slots = 1.33319
+        maximum hits to primary slots = 5
+        total number of ejections = 3
+        maximum number of ejections in a single insertion = 2
+
+
+Testing 5003, 70% full
+Elapsed time = 37.994 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 5003
+        size = 3502
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 2524
+        average hits to primary slots = 1.38748
+        maximum hits to primary slots = 7
+        total number of ejections = 35
+        maximum number of ejections in a single insertion = 3
+
+
+Testing 5003, 80% full
+Elapsed time = 42.993 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 5003
+        size = 4000
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 2772
+        average hits to primary slots = 1.443
+        maximum hits to primary slots = 5
+        total number of ejections = 111
+        maximum number of ejections in a single insertion = 5
+
+
+Testing 5003, 90% full
+*** Exception: Maximum ejections reached!
+Elapsed time = 51.992 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 5003
+        size = 4309
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 2905
+        average hits to primary slots = 1.4833
+        maximum hits to primary slots = 6
+        total number of ejections = 337
+        maximum number of ejections in a single insertion = 9
+
+
+---------------------------------------
+Testing 10037, 50% full
+Elapsed time = 64.990 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 10037
+        size = 5018
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 3952
+        average hits to primary slots = 1.26974
+        maximum hits to primary slots = 4
+        total number of ejections = 3
+        maximum number of ejections in a single insertion = 2
+
+
+Testing 10037, 60% full
+Elapsed time = 67.989 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 10037
+        size = 6022
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 4553
+        average hits to primary slots = 1.32264
+        maximum hits to primary slots = 6
+        total number of ejections = 17
+        maximum number of ejections in a single insertion = 4
+
+
+Testing 10037, 70% full
+Elapsed time = 82.988 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 10037
+        size = 7025
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 5038
+        average hits to primary slots = 1.3944
+        maximum hits to primary slots = 5
+        total number of ejections = 84
+        maximum number of ejections in a single insertion = 4
+
+
+Testing 10037, 80% full
+*** Exception: Maximum ejections reached!
+Elapsed time = 77.989 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 10037
+        size = 7682
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 5360
+        average hits to primary slots = 1.43321
+        maximum hits to primary slots = 6
+        total number of ejections = 174
+        maximum number of ejections in a single insertion = 9
+
+
+Testing 10037, 90% full
+*** Exception: Maximum ejections reached!
+Elapsed time = 80.988 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 10037
+        size = 8109
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 5522
+        average hits to primary slots = 1.46849
+        maximum hits to primary slots = 6
+        total number of ejections = 287
+        maximum number of ejections in a single insertion = 9
+
+
+---------------------------------------
+Testing 20101, 50% full
+Elapsed time = 90.986 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 20101
+        size = 10050
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 7929
+        average hits to primary slots = 1.2675
+        maximum hits to primary slots = 5
+        total number of ejections = 5
+        maximum number of ejections in a single insertion = 1
+
+
+Testing 20101, 60% full
+Elapsed time = 110.983 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 20101
+        size = 12060
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 9058
+        average hits to primary slots = 1.33142
+        maximum hits to primary slots = 5
+        total number of ejections = 26
+        maximum number of ejections in a single insertion = 4
+
+
+Testing 20101, 70% full
+Elapsed time = 136.980 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 20101
+        size = 14070
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 10120
+        average hits to primary slots = 1.39032
+        maximum hits to primary slots = 6
+        total number of ejections = 160
+        maximum number of ejections in a single insertion = 5
+
+
+Testing 20101, 80% full
+*** Exception: Maximum ejections reached!
+Elapsed time = 70.990 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 20101
+        size = 15047
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 10564
+        average hits to primary slots = 1.42437
+        maximum hits to primary slots = 6
+        total number of ejections = 350
+        maximum number of ejections in a single insertion = 9
+
+
+Testing 20101, 90% full
+*** Exception: Maximum ejections reached!
+Elapsed time = 85.987 milliseconds
+Hash statistics report:
+        randomness level = a little bit random
+        capacity = 20101
+        size = 17177
+        degree = 9
+        ejection limit = 8
+        number of primary slots = 11566
+        average hits to primary slots = 1.48513
+        maximum hits to primary slots = 7
+        total number of ejections = 1101
+        maximum number of ejections in a single insertion = 9
+
